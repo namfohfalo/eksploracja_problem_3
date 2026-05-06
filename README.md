@@ -10,7 +10,7 @@ To zadanie dotyczy problemu klasyfikacji tekstu. Tym razem nie będzie to zwykł
 | 0.99+ | 25 |
 
 
-Zadanie jest realizowane na podstawie [https://www.kaggle.com/datasets/daniilor/semeval-2026-task13](zadania) 13 z tegorocznej edycji SemEvala (workshopu przy ACL). 
+Zadanie jest realizowane na podstawie [zadania](https://www.kaggle.com/datasets/daniilor/semeval-2026-task13) 13 z tegorocznej edycji SemEvala (workshopu przy ACL). 
 
 # Instrukcja obsługi
 
