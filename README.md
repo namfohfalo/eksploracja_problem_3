@@ -4,7 +4,7 @@ To zadanie dotyczy problemu klasyfikacji tekstu. Tym razem nie będzie to zwykł
 
 | F1 | Punktacja |
 | :----:  | :----: |
-| 0.85+ | 15 |
+| 0.6+ | 15 |
 | 0.9+ | 20 | 
 | 0.95+ | 22.5 |
 | 0.99+ | 25 |
@@ -21,5 +21,5 @@ Zadanie jest realizowane na podstawie [https://www.kaggle.com/datasets/daniilor/
 
 # Interfejs zadania
 
-Przykładowe, bardzo proste rozwiązanie znajduje się w pliku src/sample_solution.py. Wykorzystaj ten sam schemat rozwiązania. W tym samym pliku znajduje się fragment oznaczony jako ewaluacja. Ten sposób ewaluacji zostanie wykorzystany do oceny rozwiązania (włącznie z parametrem `random_state`).
+Przykładowe, bardzo proste rozwiązanie znajduje się w pliku src/sample_solution.py. Wykorzystaj ten sam schemat rozwiązania. W tym samym pliku znajduje się fragment oznaczony jako ewaluacja. Ten sposób ewaluacji zostanie wykorzystany do oceny rozwiązania.
 
